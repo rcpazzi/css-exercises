@@ -1,1 +1,22 @@
 /* Add CSS Styling */
+
+.paragraph {
+    background-color: pink;
+    font-family: Verdana, sans-serif;
+}
+
+.p-cooler {
+    font-size: 24px;
+}
+
+#div-n2 {
+    color: blue;
+    font-size: 36px;
+}
+
+#div-n4 {
+    color: black;
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
